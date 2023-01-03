@@ -1,4 +1,4 @@
-##Linux administration with bash. Home task
+## Linux administration with bash. Home task
 A. Create a script that uses the following keys:
 1. When starting without parameters, it will display a list of possible keys and their description. 
 2. The --all key displays the IP addresses and symbolic names of all hosts in the current subnet 
