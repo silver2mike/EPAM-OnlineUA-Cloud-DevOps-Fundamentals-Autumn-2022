@@ -11,3 +11,4 @@ B. Using Apache log example create a script to answer the following questions:
 
 ![](https://github.com/silver2mike/EPAM-OnlineUA-Cloud-DevOps-Fundamentals-Autumn-2022/blob/main/L1/LInux-Bash-Homework/Task%20B/log-checker1.png)
 ![](https://github.com/silver2mike/EPAM-OnlineUA-Cloud-DevOps-Fundamentals-Autumn-2022/blob/main/L1/LInux-Bash-Homework/Task%20B/log-checker2.png)
+.
