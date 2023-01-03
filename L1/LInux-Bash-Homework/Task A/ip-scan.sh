@@ -27,7 +27,7 @@ if [ "$1" == "--all" ]; then
 elif [ "$1" == "--target" ] && [ "$2" != "" ]; then
    target $2
 else
-   echo " Use the following argiments"
+   echo " Use the following arguments"
    echo " --all [Network e.g. 10.10.10.0/24] to display the IP addresses and symbolic names of all hosts in the current subnet"
    echo " --target [TARGET IP] to display a list of oper system TCP ports"
 fi
