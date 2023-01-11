@@ -1,6 +1,6 @@
 ## Linux Networking. Home task
 
-Based on VirtualBox create a network according the next scheme:
+### 1.Based on VirtualBox create a network according the next scheme:
 
 ![](https://github.com/silver2mike/EPAM-OnlineUA-Cloud-DevOps-Fundamentals-Autumn-2022/blob/main/L1/Linux-Network/png/Screenshot_1.png)
 
@@ -26,19 +26,19 @@ Based on VirtualBox create a network according the next scheme:
 
 ### Client_1:
 
-**OS:** CentOS LInux 7
-**Int1:** 10.75.18.12 (DHCP)
+**OS:** CentOS LInux 7  
+**Int1:** 10.75.18.12 (DHCP)  
 **Int2:** 172.16.18.2 (Static)
 
 ### Client_2:
 
-**OS:** Ubuntu 22.04.1.LTS
-**Int1:** 10.1.75.10 (DHCP)
+**OS:** Ubuntu 22.04.1.LTS  
+**Int1:** 10.1.75.10 (DHCP)  
 **Int2:** 172.16.18.1 (Static)
 
 ![](https://github.com/silver2mike/EPAM-OnlineUA-Cloud-DevOps-Fundamentals-Autumn-2022/blob/main/L1/Linux-Network/png/Screenshot_2.jpg)
 
-### Check conections across the machines
+### 2. Check conections across the machines
 
 ![](https://github.com/silver2mike/EPAM-OnlineUA-Cloud-DevOps-Fundamentals-Autumn-2022/blob/main/L1/Linux-Network/png/ping_check.jpg)
 
