@@ -4,12 +4,10 @@ Based on VirtualBox create a network according the next scheme:
 
 ![](https://github.com/silver2mike/EPAM-OnlineUA-Cloud-DevOps-Fundamentals-Autumn-2022/blob/main/L1/Linux-Network/png/Screenshot_1.png)
 
-**Net1**: NAT
-*Net2*: 10.75.18.0/24
-
-*Net3*: 10.1.75.0/24
-
-*Net4*: 172.16.18.0/24 
+**Net1:** NAT  
+**Net2:** 10.75.18.0/24  
+**Net3:** 10.1.75.0/24  
+**Net4:** 172.16.18.0/24   
 
 ### Server_1:
 
