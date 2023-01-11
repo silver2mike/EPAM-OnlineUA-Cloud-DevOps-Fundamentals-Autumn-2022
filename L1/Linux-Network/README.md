@@ -4,7 +4,7 @@
 
 ![](https://github.com/silver2mike/EPAM-OnlineUA-Cloud-DevOps-Fundamentals-Autumn-2022/blob/main/L1/Linux-Network/png/Screenshot_1.png)
 
-**Net1:** NAT 10.0.2.15
+**Net1:** NAT 10.0.2.15  
 **Net2:** 10.75.18.0/24  
 **Net3:** 10.1.75.0/24  
 **Net4:** 172.16.18.0/24   
@@ -19,7 +19,7 @@
 ### 2. DHCP Settings:
 
 **IP ranges:**  
-10.75.18.11 - 10.75.18.29  
+10.75.18.11 - 10.75.18.20  
 10.1.75.10 - 10.1.75.30  
 
 ![](https://github.com/silver2mike/EPAM-OnlineUA-Cloud-DevOps-Fundamentals-Autumn-2022/blob/main/L1/Linux-Network/png/Screenshot_3.jpg)
