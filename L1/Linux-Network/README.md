@@ -4,45 +4,43 @@ Based on VirtualBox create a network according the next scheme:
 
 ![](https://github.com/silver2mike/EPAM-OnlineUA-Cloud-DevOps-Fundamentals-Autumn-2022/blob/main/L1/Linux-Network/png/Screenshot_1.png)
 
-**Net1:** NAT  
+**Net1:** NAT 10.0.2.15
 **Net2:** 10.75.18.0/24  
 **Net3:** 10.1.75.0/24  
 **Net4:** 172.16.18.0/24   
 
 ### Server_1:
 
-*OS:* Ubuntu 22.04.1.LTS
-*Int1:* 10.0.2.15
-*Int2:* 10.75.18.1 (Static)
-*Int3:* 10.1.75.1 (Static)
+**OS:** Ubuntu 22.04.1.LTS
+**Int1:** 10.0.2.15
+**Int2:** 10.75.18.1 (Static)
+**Int3:** 10.1.75.1 (Static)
 
 ### DHCP Settings:
 
-*IP range:*
+**IP range:**
 10.75.18.11 - 10.75.18.29
 10.1.75.10 - 10.1.75.30
 
-![Scr3]()
+![](https://github.com/silver2mike/EPAM-OnlineUA-Cloud-DevOps-Fundamentals-Autumn-2022/blob/main/L1/Linux-Network/png/Screenshot_3.jpg)
 
 ### Client_1:
 
-*OS:* CentOS LInux 7
-*Int1:* 10.75.18.12 (DHCP)
-*Int2:* 172.16.18.2 (Static)
+**OS:** CentOS LInux 7
+**Int1:** 10.75.18.12 (DHCP)
+**Int2:** 172.16.18.2 (Static)
 
 ### Client_2:
 
-*OS:* Ubuntu 22.04.1.LTS
-*Int1:* 10.1.75.10 (DHCP)
-*Int2:* 172.16.18.1 (Static)
+**OS:** Ubuntu 22.04.1.LTS
+**Int1:** 10.1.75.10 (DHCP)
+**Int2:** 172.16.18.1 (Static)
 
-![Scr2]()
+![](https://github.com/silver2mike/EPAM-OnlineUA-Cloud-DevOps-Fundamentals-Autumn-2022/blob/main/L1/Linux-Network/png/Screenshot_2.jpg)
 
 ### Check conections across the machines
 
-![ping_check]()
-
-
+![](https://github.com/silver2mike/EPAM-OnlineUA-Cloud-DevOps-Fundamentals-Autumn-2022/blob/main/L1/Linux-Network/png/ping_check.jpg)
 
 ### task 4 routing
 
