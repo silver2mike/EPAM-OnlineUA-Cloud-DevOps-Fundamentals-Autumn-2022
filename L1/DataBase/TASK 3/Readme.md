@@ -1,4 +1,4 @@
-## PART 3 – MongoDB
+## PART 3 â€“ MongoDB
 
 ### 17. Create a database. Use the use command to connect to a new database 
 
@@ -8,6 +8,8 @@
 
 ### 20. Use find() to list documents out
 
-![](https://github.com/silver2mike/EPAM-OnlineUA-Cloud-DevOps-Fundamentals-Autumn-2022/blob/main/L1/DataBase/TASK%202/png/sql_backup.png)
+![](https://github.com/silver2mike/EPAM-OnlineUA-Cloud-DevOps-Fundamentals-Autumn-2022/blob/main/L1/DataBase/TASK%203/Screenshot_1.jpg)
+
+![](https://github.com/silver2mike/EPAM-OnlineUA-Cloud-DevOps-Fundamentals-Autumn-2022/blob/main/L1/DataBase/TASK%203/Screenshot_2.jpg)
 
 
