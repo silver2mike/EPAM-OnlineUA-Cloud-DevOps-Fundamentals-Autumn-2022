@@ -25,7 +25,7 @@ Snapshot created
 
 EBS volume was created
 ![volumes](https://github.com/silver2mike/EPAM-OnlineUA-Cloud-DevOps-Fundamentals-Autumn-2022/blob/main/L1/AWS/png/volumes.png)
-EBS volume attached to Epam-test instance (98db)
+EBS volume attached to **Epam-test** instance (98db)
 ![volume2](https://github.com/silver2mike/EPAM-OnlineUA-Cloud-DevOps-Fundamentals-Autumn-2022/blob/main/L1/AWS/png/volume2.png)
 File system created, mount and file test.txt created
 ![volume3](https://github.com/silver2mike/EPAM-OnlineUA-Cloud-DevOps-Fundamentals-Autumn-2022/blob/main/L1/AWS/png/volume3.png)
@@ -35,7 +35,8 @@ AMI was created from snapshot
 ![AMI from snapshot](https://github.com/silver2mike/EPAM-OnlineUA-Cloud-DevOps-Fundamentals-Autumn-2022/blob/main/L1/AWS/png/AMI-from-snapshot.png)
 Instance **Epam-test-from-snapshot-AMI** was created   
 
-* ### Detach Disk_D from the 1st instance and attach disk_D to the new instance.
+* ### Detach Disk_D from the 1st instance and attach disk_D to the new instance.   
+EBS volume detached and attached to the new instance
 ![ebs2](https://github.com/silver2mike/EPAM-OnlineUA-Cloud-DevOps-Fundamentals-Autumn-2022/blob/main/L1/AWS/png/ebs2.png)
 
 File system was mounted and got a list of existing files
@@ -70,7 +71,7 @@ ls, cp (upload/download), rm  commands
 
 
 * ### Review the 10-minute example Deploy Docker Containers on Amazon Elastic Container Service (Amazon ECS). Repeat, create a cluster, and run the online demo application or better other application with custom settings.   
-* 
+ 
 Service created   
 ![ecs](https://github.com/silver2mike/EPAM-OnlineUA-Cloud-DevOps-Fundamentals-Autumn-2022/blob/main/L1/AWS/png/ecs.png)   
 
