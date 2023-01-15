@@ -1,33 +1,34 @@
 ## AWS Cloud Basic. Home task
 
-### Register and pass free courses on AWS Skillbuilder. AWS Cloud Practitioner Essentials: Core Services, AWS Cloud Practitioner Essentials: 
-Cloud Concepts. Try AWS Cloud Quest: Cloud Practitioner
+### Register and pass free courses on AWS Skillbuilder AWS Cloud Practitioner Essentials:   
+Core Services, AWS Cloud Practitioner Essentials: Cloud Concepts. Try AWS Cloud Quest: Cloud Practitioner
 
-![skillbuilder]()
+![skillbuilder](https://github.com/silver2mike/EPAM-OnlineUA-Cloud-DevOps-Fundamentals-Autumn-2022/blob/main/L1/AWS/png/skillbuilder.png)
 
 ### Pass free courses on Amazon qwiklabs
+
+
 
 ### Review Getting Started with Amazon EC2. Log Into Your AWS Account, Launch, Configure, Connect and Terminate Your Instance. 
 Do not use Amazon Lightsail. It is recommended to use the t2 or t3.micro instance and the CentOS operating system.
 
-![account]()
+![aws1](https://github.com/silver2mike/EPAM-OnlineUA-Cloud-DevOps-Fundamentals-Autumn-2022/blob/main/L1/AWS/png/aws1.png)
 
-![aws1]()
+![aws3](https://github.com/silver2mike/EPAM-OnlineUA-Cloud-DevOps-Fundamentals-Autumn-2022/blob/main/L1/AWS/png/aws3.png)
 
 ### Create a snapshot of your instance to keep as a backup.
 
-![aws2]()
-![aws3]()
+![aws2](https://github.com/silver2mike/EPAM-OnlineUA-Cloud-DevOps-Fundamentals-Autumn-2022/blob/main/L1/AWS/png/aws2.png)
 
 ### Create and attach a Disk_D (EBS) to your instance to add more storage space. Create and save 
 some file on Disk_D.
 
 create volume
-![volumes]()
+![volumes](https://github.com/silver2mike/EPAM-OnlineUA-Cloud-DevOps-Fundamentals-Autumn-2022/blob/main/L1/AWS/png/volumes.png)
 EBS attached to Epam-test (98db)
-![volume2]()
-CReate File system, mount and create file test.txt
-![volume3]()
+![volume2](https://github.com/silver2mike/EPAM-OnlineUA-Cloud-DevOps-Fundamentals-Autumn-2022/blob/main/L1/AWS/png/volume2.png)
+Create File system, mount and create file test.txt
+![volume3](https://github.com/silver2mike/EPAM-OnlineUA-Cloud-DevOps-Fundamentals-Autumn-2022/blob/main/L1/AWS/png/volume3.png)
 
 ### Launch the second instance from backup.
 Create AMI image from snapshot
